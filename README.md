@@ -1,5 +1,5 @@
 ﻿
-# 📚 Librería Puce
+# Librería Puce
 
 **Informe técnico — Programación de Back End**  
 **Autor:** Daniel Guerra  
